@@ -1,6 +1,7 @@
-# CV
+# [rsschool-cv](https://lol4oxd.github.io/rsschool-cv/cv)
+
 # Ryabov Ilya
-___
+
 ## Contacts
 
 * Location: Orel, Russian Federation
@@ -44,6 +45,8 @@ This is function which returns sum of two numbers
     let sum = a * b;
     return(sum);
 
+___
+
 ## Education
 
 * **Orel State University**
@@ -55,3 +58,12 @@ This is function which returns sum of two numbers
     Specialization: Mechatronics and robotics engineering
 
 * **RS PreSchool** (in progress)
+
+    JavaScript/Front-end. Stage 0
+
+___
+
+## Languages
+
+* English - B1
+* Russian - Native
