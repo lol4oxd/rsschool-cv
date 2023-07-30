@@ -5,7 +5,7 @@ ___
 
 * Location: Orel, Russian Federation
 * E-mail: justxd@rambler.ru
-* Phone: +79803640621
+* Discord: lol4oxd
 * Telegram: [lolwqt](https://t.me/lolwqt)
 * Github account: [lol4oxd](https://github.com/lol4oxd)
 
